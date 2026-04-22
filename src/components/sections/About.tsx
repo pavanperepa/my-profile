@@ -17,10 +17,6 @@ export function About() {
         </div>
 
         <div className="space-y-6">
-          <p className="text-base leading-relaxed text-muted-foreground">
-            {personalInfo.bio}
-          </p>
-
           <div className="rounded-2xl border border-border bg-card/60 p-5">
             <div className="flex flex-wrap items-start justify-between gap-3">
               <div>
