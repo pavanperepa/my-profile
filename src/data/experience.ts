@@ -15,6 +15,21 @@ export interface ExperienceItem {
 }
 
 export const experienceItems: ExperienceItem[] = [
+  {
+    id: "e0",
+    company: "USAA",
+    role: "Data Scientist 2",
+    location: "Plano, TX",
+    startDate: "May 2026",
+    endDate: "Present",
+    description: [
+      "Data science and AI.",
+    ],
+    techStack: ["Python", "Machine Learning", "Generative AI", "Data Science"],
+    companyUrl: "https://www.usaa.com",
+    logoUrl: "/logos/usaa.png",
+    category: "industry",
+  },
   // ── Industry ──────────────────────────────────────────────────────────────
   {
     id: "e1",
@@ -22,7 +37,7 @@ export const experienceItems: ExperienceItem[] = [
     role: "AI Engineer",
     location: "New York City, NY",
     startDate: "Sept 2025",
-    endDate: "Present",
+    endDate: "May 2026",
     description: [
       "Building manufacturing platform for the US Navy.",
     ],
