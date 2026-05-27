@@ -84,7 +84,7 @@ export const experienceItems: ExperienceItem[] = [
     role: "Teaching Assistant — CS 483: Analysis of Algorithms",
     location: "Fairfax, VA",
     startDate: "Jan 2026",
-    endDate: "Present",
+    endDate: "May 2026",
     description: [
       "Supporting students in algorithm design, complexity analysis, and problem-solving for Analysis of Algorithms.",
     ],
@@ -98,7 +98,7 @@ export const experienceItems: ExperienceItem[] = [
     role: "AWS / Python Teaching Assistant",
     location: "Remote",
     startDate: "Mar 2025",
-    endDate: "Present",
+    endDate: "Sept 2025",
     description: [
       "Mentored 30+ students on MLOps fundamentals, AWS cloud infrastructure, and Python engineering practices.",
     ],
@@ -128,7 +128,7 @@ export const experienceItems: ExperienceItem[] = [
     role: "AI Research Assistant",
     location: "Fairfax, VA",
     startDate: "Summer 2024",
-    endDate: "Present",
+    endDate: "May 2026",
     description: [
       "Built the application and multi-agent orchestration stack for MathVC and supported VLM benchmarking workflows for hard STEM reasoning research.",
     ],
