@@ -123,6 +123,21 @@ export const experienceItems: ExperienceItem[] = [
 
   // ── Research ──────────────────────────────────────────────────────────────
   {
+    id: "r0",
+    company: "BlueDot Impact",
+    role: "Technical AI Safety Fellow",
+    location: "Remote",
+    startDate: "June 2026",
+    endDate: "June 2026",
+    description: [
+      "Intensive fellowship covering technical AI safety, including alignment research, interpretability, and robustness.",
+    ],
+    techStack: ["AI Safety", "Alignment", "Interpretability"],
+    companyUrl: "https://bluedot.org/courses/technical-ai-safety",
+    logoUrl: "https://media.licdn.com/dms/image/v2/D4E0BAQF7arWAUgJ1Tw/company-logo_200_200/company-logo_200_200/0/1695986415849/bluedotimpact_logo?e=2147483647&v=beta&t=EDzpOEwAEpV56ccmh-KYfJ8iyGG02T_Ab4xuTTp7B2Y",
+    category: "research",
+  },
+  {
     id: "r1",
     company: "George Mason University, NLP Lab",
     role: "AI Research Assistant",
